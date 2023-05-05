@@ -36,8 +36,13 @@ Thank you.
 requirements:
 
 pyautogui
+
 pyscreenshot
+
 PIL
+
 opencv
+
 numpy
+
 json
