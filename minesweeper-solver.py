@@ -488,9 +488,6 @@ def solver(cell_i, cell_j):
 
 
 def far_neighbor(cell_i, cell_j):
-    """
-
-    """
     global minefield
     global mines_count
     global screen_clicker_list
