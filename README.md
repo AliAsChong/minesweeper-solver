@@ -29,8 +29,14 @@ Note:
     
     -If the game gives the message "Press Y to save or any key to continue..." it means that the continuation of the game is done based on the probability that I did not embed a method for this.  
     
-    
-    
+
 Thank you.
     
-    
+
+requirements:
+    -pyautogui
+    -pyscreenshot
+    -PIL
+    -opencv
+    -numpy
+    -json
