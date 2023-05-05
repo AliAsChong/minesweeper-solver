@@ -1,7 +1,8 @@
 # minesweeper-solver
 Minesweeper auto player
 A program to solve the minesweeper game automatically.
-Each cell has two important features: 1. Content 2. The number of unknown neighbors
+
+Each cell has two important features: 1. Content 2. The number of unknown neighbors.
 This file after identifying the position of the game board on the screen and recognizing the cells (cell content using cell color) by putting these two features together (in the form of a two-digit number) for each cell (in a matrix), It checks whether the unknown cells next to it are mines or not, and after detecting the mines, Right-clicks or left-clicks on its neighbors with the mouse pointer.
 
 
