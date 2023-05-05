@@ -34,9 +34,10 @@ Thank you.
     
 
 requirements:
-    -pyautogui
-    -pyscreenshot
-    -PIL
-    -opencv
-    -numpy
-    -json
+
+pyautogui
+pyscreenshot
+PIL
+opencv
+numpy
+json
